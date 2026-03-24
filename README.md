@@ -10,7 +10,7 @@ WINDOWS DOWNLOAD (EXE)
 
 Download the latest Windows executable from GitHub Releases:
 
-https://github.com/matetools/AudioExtended/releases
+https://github.com/rogers-cyber/AudioExtended/releases
 
 - No Python installation required
 - Standalone executable for Windows
@@ -74,7 +74,7 @@ INSTALLATION (SOURCE CODE)
 
 1. Clone the repository:
 
-git clone https://github.com/matetools/AudioExtended.git
+git clone https://github.com/rogers-cyber/AudioExtended.git
 cd AudioExtended
 
 2. Install required dependencies:
